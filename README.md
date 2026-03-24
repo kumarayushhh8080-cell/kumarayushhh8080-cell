@@ -1,6 +1,6 @@
 <h1> Hii I'm Ayush Kumar</h1>
 # 💫 About Me:
-BCom student | Aspiring Data Analyst  <br>Skilled in Excel, SQL, Power BI & TABLEAU<br>Passionate about turning data into insights  <br>Currently building real-world projects
+BCom student | Aspiring Data Analyst  <br>Skilled in Excel, SQL, Power BI & TABLEAU<br>Passionate about turning data into insights  <br>Currently building real-world projects to improve skills
 
 
 ## 🌐 Socials:
